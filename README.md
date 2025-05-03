@@ -12,3 +12,4 @@ Hi there!
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lrsgzs&layout=compact)
 
+![](https://github-profile-trophy.vercel.app/?username=lrsgzs)
